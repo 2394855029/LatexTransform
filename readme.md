@@ -45,7 +45,7 @@
 ![设置界面](images/setting.png)
 
 ### 用户管理界面
-![用户管理界面](images/1.jpg)
+![用户管理界面](images/2.jpg)
 
 ## 使用说明
 
