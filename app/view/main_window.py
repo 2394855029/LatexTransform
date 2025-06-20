@@ -296,14 +296,14 @@ class MainWindow(FluentWindow):
     def showMessageBox(self):
         w = MessageBox(
             '<strong>Author:</strong> andy',
-            '<strong>Github:</strong> https://github.com/zhiqing0205/LatexOCR-GUI <br> <strong>UI:</strong> PyQt-Fluent-Widgets',
+            '<strong>Github:</strong> https://github.com/2394855029/LatexTransform <br> <strong>UI:</strong> PyQt-Fluent-Widgets',
             self
         )
         w.yesButton.setText('Github')
         w.cancelButton.setText('Cancel')
 
         if w.exec():
-            QDesktopServices.openUrl(QUrl("https://github.com/zhiqing0205/LatexOCR-GUI"))
+            QDesktopServices.openUrl(QUrl("https://github.com/2394855029/LatexTransform"))
             
     def showUserProfileDialog(self):
         """显示用户资料对话框"""
