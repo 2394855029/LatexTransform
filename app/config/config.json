@@ -1,0 +1,31 @@
+{
+    "LatexOCR": {
+        "ApiUrl": "https://server.simpletex.cn/api/latex_ocr",
+        "Token": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzqwertyuiopas",
+        "Type": "Simpletex"
+    },
+    "Material": {
+        "AcrylicBlurRadius": 15
+    },
+    "Update": {
+        "CheckUpdateAtStartUp": true
+    },
+    "ObjectDetection": {
+        "ConfidenceThreshold": 33,
+        "IoUThreshold": 21,
+        "Model": "YOLO11s"
+    },
+    "Folders": {
+        "Download": "/Users/andy/Desktop/postgraduate/graduate/software_work/LatexOCR-GUI/download",
+        "LocalMusic": []
+    },
+    "MainWindow": {
+        "DpiScale": 1,
+        "Language": "zh_CN",
+        "MicaEnabled": true
+    },
+    "QFluentWidgets": {
+        "ThemeColor": "#ff009faa",
+        "ThemeMode": "Light"
+    }
+}

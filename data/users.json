@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": "default",
+      "name": "andy",
+      "avatar": "images/avatar_20250619151248.PNG",
+      "password_hash": "21c5c42f9788ae4ab884bf5f4cb46348af2f2a36535b268edab26f10ac29103a",
+      "salt": "c4a663855f644427aa4df71a7673d0be"
+    },
+    {
+      "id": "b6e605e5-397c-44c7-8781-6f23daacf682",
+      "name": "bob",
+      "avatar": "images/avatar_20250620203613.JPG",
+      "password_hash": "81d728696124995bf9828f2626ea9cb9709e87cf456f72b6c1dac96bf0512506",
+      "salt": "a4ee7482b3284aed9fc96e1cab12b6f4"
+    }
+  ],
+  "current_user_id": "default"
+}
